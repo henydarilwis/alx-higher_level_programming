@@ -1,4 +1,9 @@
-"""Rectangle Class by Henok.
+#!/usr/bin/python3
+# -----------------------------------------------------------
+# (C) 2023 Henok Darsema Tessema, Addis Ababa, Ethiopia
+# email henydarsss@gmail.com
+# -----------------------------------------------------------
+"""Rectangle Class.
 
 This module contains an empty class that defines a rectangle.
 
